@@ -1,0 +1,11 @@
+{"input":{"presentvalue":"30000000","interestrate":"0.08","term":"4","compoundingperiods":"12","monthlytopups":"2000000"},"output":{"futurevalue":1.539698131431507E8,"nominaltopupsplusprincipal":1.26E8,"interestearned":2.7969813143150687E7,"netinterest":2.3774341171678096E7}}
+
+
+
+<?
+$ch = curl_init('https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials');
+curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer cFJZcjZ6anEwaThMMXp6d1FETUxwWkIzeVBDa2hNc2M6UmYyMkJmWm9nMHFRR2xWOQ==']);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+$response = curl_exec($ch);
+curl_close($ch);
+echo $response;

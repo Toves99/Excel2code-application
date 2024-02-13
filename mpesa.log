@@ -1,0 +1,24 @@
+
+2023-12-01 12:08:54|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"7844-12140637-1","CheckoutRequestID":"ws_CO_01122023141132400715185271","ResultCode":2001,"ResultDesc":"The initiator information is invalid."}}}
+
+2023-12-02 16:54:32|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"8669-58316450-1","CheckoutRequestID":"ws_CO_02122023185702077715185271","ResultCode":2001,"ResultDesc":"The initiator information is invalid."}}}
+
+2023-12-02 17:02:51|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"42468-95179329-1","CheckoutRequestID":"ws_CO_02122023190547373715185271","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":4.00},{"Name":"MpesaReceiptNumber","Value":"RL29155S5Z"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20231202190251},{"Name":"PhoneNumber","Value":254715185271}]}}}}
+
+2023-12-02 17:12:01|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"18125-159818684-1","CheckoutRequestID":"ws_CO_02122023191349285715185271","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":4.00},{"Name":"MpesaReceiptNumber","Value":"RL2516X9RJ"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20231202191159},{"Name":"PhoneNumber","Value":254715185271}]}}}}
+
+2023-12-02 20:23:55|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"7854-17953670-1","CheckoutRequestID":"ws_CO_02122023222620930715185271","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+
+2023-12-02 20:44:23|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"7859-18029126-1","CheckoutRequestID":"ws_CO_02122023224715545714161912","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":4.00},{"Name":"MpesaReceiptNumber","Value":"RL261Z3ZLG"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20231202224423},{"Name":"PhoneNumber","Value":254714161912}]}}}}
+
+2023-12-04 09:40:00|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"25498-94222100-2","CheckoutRequestID":"ws_CO_04122023113934012715185271","ResultCode":1019,"ResultDesc":"Transaction has expired"}}}
+
+2023-12-04 10:25:56|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"1198-95369543-1","CheckoutRequestID":"ws_CO_04122023122721719715185271","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+
+2023-12-04 10:36:07|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"121507-167350914-1","CheckoutRequestID":"ws_CO_04122023123837481715185271","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+
+2023-12-04 10:52:05|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"98172-37570357-2","CheckoutRequestID":"ws_CO_04122023125504006715185271","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+
+2023-12-04 17:26:50|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"3956-67824226-3","CheckoutRequestID":"ws_CO_04122023192930722715185271","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+
+2023-12-04 18:09:58|Safaricom response was=>{"Body":{"stkCallback":{"MerchantRequestID":"25426-72418542-2","CheckoutRequestID":"ws_CO_04122023201230292715185271","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
